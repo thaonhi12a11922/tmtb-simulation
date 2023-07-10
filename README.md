@@ -7,6 +7,6 @@ The Trail Making Test (TMT) is widely used in psychological assessments to evalu
 This application is created with an attempt to simulate the TMT-B to measure the level of human alternating attention in a research regarding to the influence of napping on human academic performance. It is aimed at providing a digital tool for researchers to administer the test and gather data efficiently.
 
 <h2> Author</h2>
-<list>
-  Thảo Nhi
-</list>
+<ul>
+  <li>Võ Thái Thảo Nhi</li>
+</ul>
